@@ -1,0 +1,8 @@
+
+
+
+.holder{
+    float: right;
+    /* Optionally, you can add some margin to create space between the image and other elements */
+    margin-left: 20px; /* Adjust as needed */
+}
